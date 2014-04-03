@@ -19,5 +19,8 @@
 	"devDependencies": {
 		"mocha": "^1.18.2",
 		"chai": "^1.9.1"
+	},
+	"dependencies": {
+		"js-yaml": "^3.0.2"
 	}
 }
