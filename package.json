@@ -1,0 +1,23 @@
+{
+	"name": "bigfaker",
+	"version": "0.0.0",
+	"description": "generate ooodles of data",
+	"main": "index.js",
+	"scripts": {
+		"test": "make test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/lawrence79/bigfaker.git"
+	},
+	"author": "Lawrence Norton <lawrence@lawrencenorton.com> (http://www.lawrencenorton.com/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lawrence79/bigfaker/issues"
+	},
+	"homepage": "https://github.com/lawrence79/bigfaker",
+	"devDependencies": {
+		"mocha": "^1.18.2",
+		"chai": "^1.9.1"
+	}
+}
