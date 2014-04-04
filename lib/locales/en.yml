@@ -1,7 +1,9 @@
 en:
   faker:
-    team:
-      name: [Marketing, Operations, HR]
+
+    department:
+      name: [Services, Marketing, Human Resources, Financial, Purchasing, Sales, IT, Inventory, Quality Asurance, Insurance, Licenses, Operational, Customers, Staff, Customer Service, Organizational]
+      suffix: [Head, VP, Associate, Director, Manager]
     address:
       city_prefix: [North, East, West, South, New, Lake, Port]
       city_suffix: [town, ton, land, ville, berg, burgh, borough, bury, view, port, mouth, stad, furt, chester, mouth, fort, haven, side, shire]
